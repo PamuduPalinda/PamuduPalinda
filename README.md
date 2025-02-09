@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Lives-Ratnapura,Sri%20Lanka-ref" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-blueviolet" />
 </p>
-<h3 align="center">Undergraduate | Hard Worker | AI - ML -> Enthusiast</h3>
+<h3 align="center">Graduate | Hard Worker | AI - ML -> Enthusiast | Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/pamudu-palinda" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" height="70" /></a>
   <a href = "mailto: pamudu.palinda@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="25" width="30" /></a>
@@ -15,7 +15,8 @@
 </p>
 <p align="center">
   <em>
-    I am, I Pamudu Palinda, a <b>Third year</b> undergraduate at<a href="https://www.uom.lk/"><b> Dept. of Computer Science & Engineering </b> <a href="https://www.uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
+    I am, I Pamudu Palinda, a graduate at<a href="https://www.uom.lk/"><b> Dept. of Computer Science & Engineering </b> <a href="https://www.uom.lk/"> <b>University of Moratuwa</b>, Sri Lanka</a>. <br>
+     Currently working as a Software Engineer.
     </em>
 <h3 align="center">
     ⚡ Technologies & Tools
